@@ -1,5 +1,3 @@
-package com.matthew.shapes;
-
 import java.util.*;
 
 public class ShapesRunner {
